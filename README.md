@@ -55,5 +55,33 @@
   
   All required dependencies are listed in the requirements.txt (for Python) or package.json (for JavaScript).
 
-  
+ ## **Installation & Setup Instructions**
+ 
+1. **Clone the repository and install dependencies:**
+   ```bash
+   git clone https://github.com/VenkateswarluOnteru/Food-Bridge.git
+   cd Food-Bridge
+   pip install -r requirements.txt
+   npm install
+   ```
+2. **Run the backend server:**
+   ```bash
+   cd backend
+   node server.js
+   ```
+3. **Run the frontend:**
+   ```bash
+   cd frontend
+   npm run dev
+   ```
+4. **Access the application on:** `http://localhost:3000/`
+
+**Contributors:**
+1.Venkateswarlu
+2.Surya Narayana Reddy
+3.Harsha Vardhan
+4.Hemanth
+
+
+
 
